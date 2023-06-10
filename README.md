@@ -1,2 +1,1 @@
-# WreckingBallGame
-A small game where the player controls a wrecking ball
+# PHYS360-FA22-9-Final-Project
